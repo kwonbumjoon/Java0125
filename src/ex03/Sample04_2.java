@@ -2,7 +2,7 @@ package ex03;
 /* 문제
  * 매소드 : max
  * 매개변수 : 없음
- * 반환타입 :  int
+ * 반환타입 : int
  * 두 정수 중 최대값 반환
  * */
 public class Sample04_2 {
